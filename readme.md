@@ -4,7 +4,7 @@ A fully functional YouTube clone built with **React**, **Node.js**, **Express**,
 
 ## 🖼️ Demo View
 
-![YouTube Clone Demo]('Demo.mov')
+![YouTube Clone Demo]('Demo.mp4')
 ---
 
 ## 🌟 Features
