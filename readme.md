@@ -2,11 +2,9 @@
 
 A fully functional YouTube clone built with **React**, **Node.js**, **Express**, and **MongoDB**. This project replicates the core features of YouTube, including video playback, user authentication, comments, and a responsive design.
 
-## 🖼️ Demo View
-
-![YouTube Clone Demo]('Demo.mp4')
 ---
-
+## Demo Video
+![Demo Video](./Demo.mp4)
 ## 🌟 Features
 
 - **Video Playback**: Watch videos with an embedded player.
